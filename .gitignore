@@ -1,0 +1,14 @@
+# Environment variables — never commit this
+.env
+
+# Go build output
+*.exe
+*.out
+bin/
+
+# Go test cache
+*.test
+
+# OS files
+.DS_Store
+Thumbs.db
