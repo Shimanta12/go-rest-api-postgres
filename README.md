@@ -97,7 +97,7 @@ All errors return a consistent JSON shape:
 
 ---
 
-## Key Engineering Decisions
+## Key Decisions
 
 **`database/sql` over an ORM** — Raw SQL keeps queries explicit and predictable. There's no magic, no hidden N+1 queries, and no fighting an abstraction layer when something goes wrong.
 
