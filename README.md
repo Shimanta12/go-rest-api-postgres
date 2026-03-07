@@ -1,6 +1,6 @@
 # go-rest-api-postgres
 
-A production-ready RESTful API built from scratch in Go, backed by PostgreSQL. This project demonstrates clean architecture, idiomatic Go patterns, and real-world backend engineering practices — without relying on heavyweight frameworks.
+RESTful API built from scratch in Go, backed by PostgreSQL. This project demonstrates clean architecture, idiomatic Go patterns, and real-world backend engineering practices — without relying on heavyweight frameworks.
 
 ---
 
